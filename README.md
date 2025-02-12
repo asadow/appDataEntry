@@ -20,7 +20,6 @@ This Shiny application serves as a management tool for the Campus Safety Office 
 
   ```
   git clone https://github.com/asadow/appDataEntry.git
-  cd appDataEntry
   ```
 
 2. **Set up the database connection:**
