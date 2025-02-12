@@ -1,4 +1,4 @@
-# Campus Safety Office Work Order Management System
+# Campus Safety Office Work-Order Management System
 
 ## Description
 
