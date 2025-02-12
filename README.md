@@ -1,5 +1,7 @@
 # Campus Safety Office Work-Order Management System
 
+![App Screenshot](Screenshot.png)
+
 ## Description
 
 This Shiny application serves as a management tool for the Campus Safety Office to efficiently enter, track, and manage work orders related to campus maintenance issues. It facilitates the logging of who attended to specific work orders and manages details such as time, date, and involved personnel.
