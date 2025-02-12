@@ -9,11 +9,10 @@ This Shiny application serves as a management tool for the Campus Safety Office 
 ## Features
 
 - **Data Entry Interface**: Utilizes `rhandsontable` for interactive data entry and automatic saving.
-- **Time Validation**: Ensures valid times for work orders with formatted inputs.
 - **Dynamic Dropdowns**: Uses dropdown menus populated with data from the database for selecting employees and trades.
 - **Data Validation and Formatting**: Ensures that all entered data meets predefined standards and formats, including work order number validation.
 - **Integration with PostgreSQL Database**: Maintains a connection to a PostgreSQL database for persistent data storage.
-- **User Interface Customization**: Incorporates custom logos and styles to align with the campus safety office branding.
+- **User Interface Customization**: Incorporates custom logos and styles to align with the campus safety office branding. Grey columns are optional.
 
 ## Installation
 
