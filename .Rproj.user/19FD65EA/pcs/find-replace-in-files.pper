@@ -1,6 +1,6 @@
 {
     "dialog-state": {
-        "query": "Time",
+        "query": "time",
         "path": "",
         "regex": false,
         "caseSensitive": false,
@@ -9,7 +9,7 @@
         "useGitGrep": true,
         "excludeGitIgnore": true,
         "excludeFilePatterns": [],
-        "resultsCount": 213,
+        "resultsCount": 321,
         "errorCount": 0,
         "replaceErrors": "",
         "projectRelative": true

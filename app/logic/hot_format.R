@@ -54,5 +54,5 @@ hot_format <- function(.data) {
     hot_validate_numeric("Work Order #", min = 100000, max = 999999) |>
     ## Open issue; if column does not exist, not a good error
     ## Error in [[: attempt to select less than one element in get1index
-    hot_validate_character("Time", choices = valid_times)
+    hot_validate_character("Time", choices = c(valid_times, ""))
 }
